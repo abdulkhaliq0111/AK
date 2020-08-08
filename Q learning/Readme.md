@@ -6,7 +6,7 @@
 
 ### Taxi-v3: Open AI Gym
 - **Open AI Gym:** [Gym](https://gym.openai.com/) is a toolkit for developing and comparing reinforcement learning algorithms.
-Implementation of Q-Learning to learn optimal q-table of "Taxi-v2 Open AI Gym" and use it to solve the environment.
+Implementation of Q-Learning to learn optimal q-table of "Taxi-v3 Open AI Gym" and use it to solve the environment.
 
 <p align="center">
 <img src ="https://qph.fs.quoracdn.net/main-qimg-efa34695528d52dcd06c55d5d9b46bef-c" />
