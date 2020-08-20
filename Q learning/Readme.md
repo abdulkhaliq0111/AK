@@ -24,4 +24,3 @@ Ideally, all three should decrease over time because as the agent continues to l
 ### References
 **[1]** *Sutton, R. S. & Barto, A. G.* [Reinforcement learning: an introduction](http://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf), 1988.
 
-**[2]** *T Erez, Y Tassa, E Todorov* [Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition](https://dl.acm.org/citation.cfm?id=1622268), 2011.
